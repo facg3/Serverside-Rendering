@@ -75,15 +75,6 @@ Functions are called by using their name followed by the required parameters sep
 
 > => true (i.e., since 1 is less than 2)
 
-### Logic
-
-#### *Example 1:*   Using Context
-
->{{ range array }}
-
->    {{ . }}
-
->{{ end }}
 
 ### Conditionals
 
