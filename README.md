@@ -18,6 +18,18 @@
 #### Pros and cons of serverside rendering vs clientside
 
 #### Server-Side pros:
+1-Rich site interactions
+2-Fast website rendering after the initial load.
+3-Great for web applications.
+4-Robust selection of JavaScript libraries.
+
+#### Server-Side cons:
+1-Low SEO if not implemented correctly.
+2-Initial load might require more time.
+3-In most cases, requires an external library.
+
+
+#### Client-Side pros:
 
 1-Faster navigation
 2-Server performance
@@ -25,26 +37,15 @@
 4-Improved development speed
 5-Testability
 
-#### Server-Side cons:
+#### Client-Side cons:
 1-Slower Initial Load
 2-Unpredictable Performance
 3-Compatibility with older browsers
 4-Search Engine Optimization
 5-Maintainability
 
-#### Client-Side pros:
-1-Rich site interactions
-2-Fast website rendering after the initial load.
-3-Great for web applications.
-4-Robust selection of JavaScript libraries.
 
-#### Client-Side cons:
-1-Low SEO if not implemented correctly.
-2-Initial load might require more time.
-3-In most cases, requires an external library.
-
-
-## Problems do templating languages solve
+## Problems templating languages solve
 
 #### Templating Languages
 
